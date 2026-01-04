@@ -1,0 +1,8 @@
+{
+  "name": "Gujarat Police GK Hub 2026",
+  "description": "A comprehensive real-time GK research and MCQ generator for Gujarat Police Constable and PSI 2026 exam preparation, powered by Gemini Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
